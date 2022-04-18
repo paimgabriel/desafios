@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body {
+    background: darkslategrey;
+    display: block;
+    align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Comic Sans Ms;
+    font-size: 65px;
+}
